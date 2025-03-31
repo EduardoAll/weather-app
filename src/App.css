@@ -9,3 +9,6 @@ body.modal-open {
     overflow: hidden !important;
     position: fixed;
 }
+asd {
+  width: 0;
+}
